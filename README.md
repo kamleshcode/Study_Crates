@@ -48,12 +48,12 @@ Prepare for technical and HR interviews through an interactive AI module:
 
 ## 🛠️ Tech Stack
 
-| Layer         | Technology                                             |
-|---------------|--------------------------------------------------------|
-| Frontend      | React.js + Vite + Tailwind CSS                         |
-| Backend       | Node.js(Server) + Express.js(Framework) + bcrypt(Auth) |               |
-| Database      | MySQL                                                  |
-| AI Integration| Gemini API (Google Generative AI)                      |
+| Layer         | Technology                                               |
+|---------------|----------------------------------------------------------|
+| Frontend      | React.js + Vite + Tailwind CSS                           |
+| Backend       | Node.js(Server) + Express.js(Framework) + bcryptjs(Auth) |               |
+| Database      | MySQL                                                    |
+| AI Integration| Gemini API (Google Generative AI)                        |
 
 ---
 ## 🚀 Setup Instructions
