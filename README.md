@@ -18,16 +18,13 @@ Sharpen your coding skills through categorized challenges:
 - Hints and alternate solutions  
 - Real-time evaluation and feedback
 
-### 🛤️ Study Roadmaps  
+### 🛤️ Roadmaps  
 Follow curated roadmaps for:
-- Subjects (like Python, DSA, Web Development)  
-- Competitive exams (JEE, NEET, GATE)  
 - Career paths (Frontend Developer, Data Scientist)
 
 ### 📊 Quizzes and MCQs  
 Practice topic-wise MCQs and timed quizzes to improve accuracy and recall:
-- Instant feedback  
-- Explanation on wrong answers  
+- Instant feedback   
 - Track performance across topics
 
 ### 🧮 Aptitude Test  
